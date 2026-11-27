@@ -4,4 +4,4 @@
 
 [핸즈온 머신러닝](https://product.kyobobook.co.kr/detail/S000208981368)
 
-26.2.28. ~
+26.2.28. ~ 10.22.
